@@ -1,6 +1,6 @@
 # Data Visualization and Reproducible Research
 
-> Firstname Lastname. 
+> Sidney Ang. 
 
 
 The following is a sample of products created during the _"Data Visualization and Reproducible Research"_ course.
@@ -9,6 +9,7 @@ The following is a sample of products created during the _"Data Visualization an
 ## Project 01
 
 In the `project_01/` folder you can find... _[add short description of your revised project here]_
+
 
 **Sample data visualization:** 
 
